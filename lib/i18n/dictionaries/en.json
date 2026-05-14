@@ -1,0 +1,214 @@
+{
+  "nav": {
+    "mathematics": "Mathematics",
+    "physics": "Physics",
+    "other": "Other",
+    "about": "About Me",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Private Tutoring",
+    "title": "Master the subjects\nthat define your future.",
+    "subtitle": "Personalized 1-on-1 sessions in Mathematics, Physics, and more. Clear explanations, structured progress, real results.",
+    "cta_primary": "Book a Free Call",
+    "cta_secondary": "Explore Subjects"
+  },
+  "subjects": {
+    "section_title": "What I Teach",
+    "section_subtitle": "Structured, curriculum-aligned tutoring across key STEM disciplines",
+    "mathematics": {
+      "title": "Mathematics",
+      "description": "From functions and derivatives to matrices and complex numbers. Step-by-step methods and deep conceptual understanding."
+    },
+    "physics": {
+      "title": "Physics",
+      "description": "Mechanics, thermodynamics, electricity, and modern physics. Build real insight, not just formula memorization."
+    },
+    "other": {
+      "title": "Other Subjects",
+      "description": "Chemistry, programming, study techniques. Versatile support for a broader, stronger academic profile."
+    },
+    "explore": "Explore"
+  },
+  "trust": {
+    "section_title": "Why Students Choose Me",
+    "items": [
+      {
+        "title": "Tailored to You",
+        "description": "Every student learns differently. I adapt pace, style, and depth to match exactly where you are."
+      },
+      {
+        "title": "Curriculum-Aligned",
+        "description": "Content follows both Slovak and international curriculum standards — precise preparation for exams."
+      },
+      {
+        "title": "Clear Progress",
+        "description": "Structured roadmaps and regular feedback so you always know exactly where you stand."
+      },
+      {
+        "title": "Real Understanding",
+        "description": "Not rote memorization. I build genuine conceptual understanding that transfers to any exam."
+      }
+    ]
+  },
+  "about": {
+    "section_title": "About Me",
+    "name": "Tomáš Kováč",
+    "role": "Private Tutor · STEM Educator",
+    "bio1": "I'm a passionate educator with a strong background in applied mathematics and physics. Over five years of tutoring secondary and university students, I've helped hundreds move from confusion to genuine mastery.",
+    "bio2": "My approach combines structured methodology with patience. Whether you're catching up or aiming for top marks, I meet you where you are and build from there.",
+    "stat1_value": "5+",
+    "stat1_label": "Years tutoring",
+    "stat2_value": "200+",
+    "stat2_label": "Students helped",
+    "stat3_value": "95%",
+    "stat3_label": "Exam pass rate",
+    "cta": "See Full Profile"
+  },
+  "faq": {
+    "section_title": "Common Questions",
+    "items": [
+      {
+        "q": "How long are sessions?",
+        "a": "Standard sessions are 60 minutes. 90-minute deep-dive sessions are available for complex topics or exam preparation sprints."
+      },
+      {
+        "q": "Are sessions online or in-person?",
+        "a": "Both. Online sessions use video call with a shared digital whiteboard. In-person sessions are available in Bratislava."
+      },
+      {
+        "q": "What age groups do you tutor?",
+        "a": "Primarily secondary school students (ages 14–19) and first-year university students. I adapt my approach for each group."
+      },
+      {
+        "q": "How do I book a first session?",
+        "a": "Send me a message via email or Instagram. We'll begin with a free 20-minute introductory call to assess your needs and set goals."
+      },
+      {
+        "q": "Do you provide study materials?",
+        "a": "Yes. Custom problem sets, summary notes, and video explanations for every topic we cover — many available for free download."
+      }
+    ]
+  },
+  "roadmap": {
+    "section_title": "Your Learning Path",
+    "section_subtitle": "A clear, structured progression from first assessment to independent mastery",
+    "steps": [
+      {
+        "number": "01",
+        "label": "Assessment",
+        "description": "We identify your current level, knowledge gaps, and specific goals in a focused introductory session."
+      },
+      {
+        "number": "02",
+        "label": "Foundation",
+        "description": "We fill gaps with targeted, efficient topic sessions — no wasted time on what you already know."
+      },
+      {
+        "number": "03",
+        "label": "Practice",
+        "description": "Real past-paper problems, worked examples, and guided feedback to build exam-ready confidence."
+      },
+      {
+        "number": "04",
+        "label": "Mastery",
+        "description": "Advanced topics, timed practice, and independent problem solving. You're ready for any exam."
+      }
+    ]
+  },
+  "materials": {
+    "section_title": "Study Materials",
+    "section_subtitle": "Free downloadable notes, problem sets, and cheat sheets",
+    "coming_soon_label": "Coming Soon",
+    "download_label": "Download PDF",
+    "items": [
+      {
+        "title": "Calculus Formula Sheet",
+        "subject": "Mathematics",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Mechanics Problem Set",
+        "subject": "Physics",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Derivatives Cheat Sheet",
+        "subject": "Mathematics",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Thermodynamics Summary",
+        "subject": "Physics",
+        "type": "PDF",
+        "available": false
+      }
+    ]
+  },
+  "contact": {
+    "section_title": "Get In Touch",
+    "section_subtitle": "Ready to start? Have a question? Reach out — I typically respond within 24 hours.",
+    "email_label": "Email",
+    "instagram_label": "Instagram",
+    "youtube_label": "YouTube",
+    "email_value": "tutor@mente.sk",
+    "instagram_value": "@mente.tutoring",
+    "youtube_value": "Mente Tutoring",
+    "email_href": "mailto:tutor@mente.sk",
+    "instagram_href": "https://instagram.com/mente.tutoring",
+    "youtube_href": "https://youtube.com/@mente"
+  },
+  "footer": {
+    "tagline": "Premium private tutoring in Mathematics and Physics.",
+    "copyright": "All rights reserved."
+  },
+  "difficulty": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "topic_card": {
+    "watch_video": "Watch Video",
+    "video_coming_soon": "Video Coming Soon"
+  },
+  "subject_pages": {
+    "mathematics": {
+      "title": "Mathematics",
+      "subtitle": "Comprehensive coverage from foundational algebra through advanced calculus and linear algebra. Every topic is taught with clarity and precision."
+    },
+    "physics": {
+      "title": "Physics",
+      "subtitle": "From Newtonian mechanics to nuclear physics. Build the conceptual depth and problem-solving fluency that exams demand."
+    },
+    "other": {
+      "title": "Other Subjects",
+      "subtitle": "Chemistry, programming, and evidence-based study techniques to strengthen your broader academic performance."
+    }
+  },
+  "about_page": {
+    "title": "About Me",
+    "subtitle": "Educator, problem-solver, and dedicated tutor.",
+    "teaching_philosophy_title": "Teaching Philosophy",
+    "teaching_philosophy": "Understanding beats memorization every time. My goal is to make you genuinely comfortable with the material — not just able to replicate a procedure, but able to reason from first principles. That's what separates good students from great ones.",
+    "background_title": "Background & Experience",
+    "background": "I studied applied mathematics and physics and have spent five years teaching students across secondary school and university levels. My methods draw on cognitive science research: spaced repetition, active recall, interleaved practice — techniques that produce durable, transferable knowledge."
+  },
+  "contact_page": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your goals. The first step is a short, free introductory call.",
+    "free_call_label": "Free Introductory Call",
+    "free_call_desc": "20 minutes. No commitment. We'll discuss your goals and whether we're a good fit.",
+    "response_time": "I typically respond within 24 hours.",
+    "availability_title": "Availability",
+    "availability_desc": "Sessions available Monday–Saturday. Online sessions can be arranged at flexible times across European timezones."
+  },
+  "lang_selector": {
+    "headline": "Welcome",
+    "subheadline": "Choose your language to continue",
+    "en_label": "Continue in English",
+    "sk_label": "Pokračovať po slovensky"
+  }
+}

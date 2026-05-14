@@ -1,0 +1,214 @@
+{
+  "nav": {
+    "mathematics": "Matematika",
+    "physics": "Fyzika",
+    "other": "Iné",
+    "about": "O mne",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline": "Súkromné Doučovanie",
+    "title": "Zvládnite predmety,\nktoré formujú vašu budúcnosť.",
+    "subtitle": "Personalizované individuálne hodiny matematiky, fyziky a ďalších predmetov. Jasné vysvetlenia, štruktúrovaný postup, reálne výsledky.",
+    "cta_primary": "Bezplatný hovor",
+    "cta_secondary": "Preskúmať predmety"
+  },
+  "subjects": {
+    "section_title": "Čo vyučujem",
+    "section_subtitle": "Štruktúrované doučovanie kľúčových STEM predmetov v súlade s učebným plánom",
+    "mathematics": {
+      "title": "Matematika",
+      "description": "Od funkcií a derivácií po matice a komplexné čísla. Krok za krokom, s hlbokým porozumením látky."
+    },
+    "physics": {
+      "title": "Fyzika",
+      "description": "Mechanika, termodynamika, elektrina a moderná fyzika. Skutočné pochopenie, nie len memorovanie vzorcov."
+    },
+    "other": {
+      "title": "Iné predmety",
+      "description": "Chémia, programovanie, techniky štúdia. Všestranná podpora pre silnejší akademický profil."
+    },
+    "explore": "Preskúmať"
+  },
+  "trust": {
+    "section_title": "Prečo si žiaci vyberajú mňa",
+    "items": [
+      {
+        "title": "Prispôsobené vám",
+        "description": "Každý žiak sa učí inak. Prispôsobujem tempo, štýl a hĺbku presne podľa vašich potrieb."
+      },
+      {
+        "title": "Podľa učebného plánu",
+        "description": "Obsah zodpovedá slovenským aj medzinárodným učebným osnovám — presná príprava na skúšky."
+      },
+      {
+        "title": "Jasný pokrok",
+        "description": "Štruktúrované plány a pravidelná spätná väzba, aby ste vždy vedeli, kde presne stojíte."
+      },
+      {
+        "title": "Skutočné porozumenie",
+        "description": "Žiadne mechanické memorovanie. Budujeme hlboké pochopenie, ktoré sa prenáša na akúkoľvek skúšku."
+      }
+    ]
+  },
+  "about": {
+    "section_title": "O mne",
+    "name": "Tomáš Kováč",
+    "role": "Súkromný učiteľ · STEM pedagóg",
+    "bio1": "Som vášnivý pedagóg so silným zázemím v aplikovanej matematike a fyzike. Za päť rokov doučovania žiakov stredných škôl a univerzít som pomohol stovkám z nich prejsť od zmätku k skutočnému zvládnutiu látky.",
+    "bio2": "Môj prístup kombinuje štruktúrovanú metodológiu s trpezlivosťou. Či zaostávate, alebo mierite na jednotky — stretnem sa s vami tam, kde ste, a budujeme odtiaľ.",
+    "stat1_value": "5+",
+    "stat1_label": "Rokov doučovania",
+    "stat2_value": "200+",
+    "stat2_label": "Pomohnutých žiakov",
+    "stat3_value": "95%",
+    "stat3_label": "Úspešnosť na skúškach",
+    "cta": "Celý profil"
+  },
+  "faq": {
+    "section_title": "Časté otázky",
+    "items": [
+      {
+        "q": "Ako dlho trvajú hodiny?",
+        "a": "Štandardné hodiny trvajú 60 minút. Pre náročnejšie témy alebo intenzívnu prípravu na skúšky sú dostupné 90-minútové hodiny."
+      },
+      {
+        "q": "Prebiehajú hodiny online alebo osobne?",
+        "a": "Oba spôsoby. Online hodiny prebiehajú cez videohovor so zdieľanou digitálnou tabuľou. Osobné hodiny sú dostupné v Bratislave."
+      },
+      {
+        "q": "S akými vekovými skupinami pracujete?",
+        "a": "Primárne so žiakmi stredných škôl (14–19 rokov) a prváčikmi na vysokej škole. Pre každú skupinu prispôsobujem prístup."
+      },
+      {
+        "q": "Ako si zarezervujem prvú hodinu?",
+        "a": "Napíšte mi email alebo správu na Instagrame. Začneme bezplatným 20-minútovým úvodným hovorom, kde zhodnotíme vaše potreby a ciele."
+      },
+      {
+        "q": "Poskytujete študijné materiály?",
+        "a": "Áno. Vlastné sady úloh, zhrnutia a video vysvetlenia ku každej téme — mnohé sú dostupné na bezplatné stiahnutie."
+      }
+    ]
+  },
+  "roadmap": {
+    "section_title": "Vaša vzdelávacia cesta",
+    "section_subtitle": "Jasná, štruktúrovaná cesta od prvého hodnotenia po samostatné zvládnutie látky",
+    "steps": [
+      {
+        "number": "01",
+        "label": "Hodnotenie",
+        "description": "Zistíme vašu aktuálnu úroveň, medzery vo vedomostiach a konkrétne ciele na úvodnej hodine."
+      },
+      {
+        "number": "02",
+        "label": "Základy",
+        "description": "Efektívne vyplníme medzery cielenými tematickými hodinami — bez straty času na to, čo už viete."
+      },
+      {
+        "number": "03",
+        "label": "Prax",
+        "description": "Reálne úlohy z minulých skúšok, vypracované príklady a spätná väzba pre istotu na skúškach."
+      },
+      {
+        "number": "04",
+        "label": "Zvládnutie",
+        "description": "Pokročilé témy, časovaná prax a samostatné riešenie úloh. Ste pripravení na akúkoľvek skúšku."
+      }
+    ]
+  },
+  "materials": {
+    "section_title": "Študijné materiály",
+    "section_subtitle": "Bezplatné stiahnuteľné poznámky, sady úloh a ťaháky",
+    "coming_soon_label": "Čoskoro",
+    "download_label": "Stiahnuť PDF",
+    "items": [
+      {
+        "title": "Tabuľka vzorcov – Analýza",
+        "subject": "Matematika",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Sada úloh – Mechanika",
+        "subject": "Fyzika",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Ťahák – Derivácie",
+        "subject": "Matematika",
+        "type": "PDF",
+        "available": false
+      },
+      {
+        "title": "Zhrnutie – Termodynamika",
+        "subject": "Fyzika",
+        "type": "PDF",
+        "available": false
+      }
+    ]
+  },
+  "contact": {
+    "section_title": "Kontaktujte ma",
+    "section_subtitle": "Pripravení začať? Máte otázku? Napíšte mi — zvyčajne odpoviem do 24 hodín.",
+    "email_label": "Email",
+    "instagram_label": "Instagram",
+    "youtube_label": "YouTube",
+    "email_value": "tutor@mente.sk",
+    "instagram_value": "@mente.tutoring",
+    "youtube_value": "Mente Tutoring",
+    "email_href": "mailto:tutor@mente.sk",
+    "instagram_href": "https://instagram.com/mente.tutoring",
+    "youtube_href": "https://youtube.com/@mente"
+  },
+  "footer": {
+    "tagline": "Prémiové súkromné doučovanie matematiky a fyziky.",
+    "copyright": "Všetky práva vyhradené."
+  },
+  "difficulty": {
+    "beginner": "Začiatočník",
+    "intermediate": "Pokročilý",
+    "advanced": "Expert"
+  },
+  "topic_card": {
+    "watch_video": "Pozrieť video",
+    "video_coming_soon": "Video čoskoro"
+  },
+  "subject_pages": {
+    "mathematics": {
+      "title": "Matematika",
+      "subtitle": "Komplexné pokrytie od základnej algebry po pokročilú analýzu a lineárnu algebru. Každá téma vyučovaná jasne a presne."
+    },
+    "physics": {
+      "title": "Fyzika",
+      "subtitle": "Od Newtonovej mechaniky po jadrovú fyziku. Budujeme pojmovú hĺbku a plynulosť riešenia úloh, ktorú skúšky vyžadujú."
+    },
+    "other": {
+      "title": "Iné predmety",
+      "subtitle": "Chémia, programovanie a overené techniky štúdia pre silnejší celkový akademický výkon."
+    }
+  },
+  "about_page": {
+    "title": "O mne",
+    "subtitle": "Pedagóg, riešiteľ problémov a oddaný lektor.",
+    "teaching_philosophy_title": "Filozofia vyučovania",
+    "teaching_philosophy": "Porozumenie vždy prekoná memorovanie. Mojím cieľom je, aby ste sa s látkou cítili naozaj komfortne — nie len vedeli zopakovať postup, ale uvažovať od základných princípov. To je rozdiel medzi dobrým a skvelým žiakom.",
+    "background_title": "Vzdelanie a skúsenosti",
+    "background": "Vyštudoval som aplikovanú matematiku a fyziku a päť rokov som vyučoval žiakov stredných škôl aj na univerzitnej úrovni. Moje metódy vychádzajú z výskumu kognitívnych vied: rozložené opakovanie, aktívne vybavovanie, prelínanie tém — techniky, ktoré vytvárajú trvalé, prenositeľné vedomosti."
+  },
+  "contact_page": {
+    "title": "Kontakt",
+    "subtitle": "Porozprávajme sa o vašich cieľoch. Prvý krok je krátky, bezplatný úvodný hovor.",
+    "free_call_label": "Bezplatný úvodný hovor",
+    "free_call_desc": "20 minút. Bez záväzkov. Prediskutujeme vaše ciele a či si sadneme.",
+    "response_time": "Zvyčajne odpoviem do 24 hodín.",
+    "availability_title": "Dostupnosť",
+    "availability_desc": "Hodiny dostupné pondelok–sobota. Online hodiny je možné dohodnúť v pružných časoch v rámci európskych časových pásiem."
+  },
+  "lang_selector": {
+    "headline": "Vitajte",
+    "subheadline": "Zvoľte jazyk pre pokračovanie",
+    "en_label": "Continue in English",
+    "sk_label": "Pokračovať po slovensky"
+  }
+}
